@@ -1,3 +1,9 @@
+# buildXplaneLibrary opensource-project licensed under CC BY-SA 4.0
+# visit repo on https://github.com/DraggeBagge/buildXplaneLibrary
+
+#   CHANGELOG
+#   v.1.0.1 added description  /DB
+
 $rootFolder = $PSScriptRoot
 $fileTypes = @("*.obj", "*.str")
 $libraryFilePath = Join-Path $rootFolder "Library.txt"

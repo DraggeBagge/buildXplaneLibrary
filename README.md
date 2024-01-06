@@ -1,10 +1,10 @@
 # What it does
 buildXplaneLibrary project is a free to use powershell sctipt that builds a Library.txt for the X-Plane ® flight simulator based on the root folder structure.
 
-#Instructions 
+# Instructions 
 Simply place the buildXplaneLibrary.ps1 script into the root folder of the library (ergo the place where you wish the Library.txt to be created). Start powershell shell as administrator and run the script. 
 
-:warning==:NOTE:== On a windows PC you may have to bypass execution policy temporarly for your powershell session. Run Set-ExecutionPolicy Bypass in the shell before you start buildXplaneLibrary.ps1 script. If you are unsure of what this means, please read [about_Execution_Policies](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.4)
+> NOTE - On a windows PC you may have to bypass execution policy temporarly for your powershell session. Run Set-ExecutionPolicy Bypass in the shell before you start buildXplaneLibrary.ps1 script. If you are unsure of what this means, please read [about_Execution_Policies](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.4)
 
 # License
 buildXplaneLibrary is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
